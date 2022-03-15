@@ -1,0 +1,331 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:inter;
+}
+
+body
+{
+   background-color: blue;
+   position: fixed;
+}
+
+.heading
+{
+    color: white;
+    font-size: large;
+    margin-left: 10%;
+}
+.heading
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 4s;
+}
+
+.box1 
+{
+        width: 400px;
+        height: 650px;
+        border: 5px solid blue;
+        margin-top: 12%;
+        margin-left: 130%;
+        border-radius: 25px;
+        padding-left: 5%;
+        padding-top: 5%;
+        
+}
+.box1
+{
+    
+    background: linear-gradient(
+        to bottom,
+        rgb(249,115,19) 0%,
+        rgb(249,115,19) 40%,
+        white 40%,
+        white 100%
+    );
+    
+}
+.box1
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 6s;
+}
+.box2
+{
+        width: 330px;
+        height: 390px;
+        border: 2px solid whitesmoke;
+        margin-top: 9%;
+        margin-left: 5%;
+        border-radius: 25px;
+        padding-left: 5%;
+        padding-top: 5%;
+         
+}
+.box2
+{
+    color: black;
+    background-color: white;
+    font-size: medium;
+}
+.box2
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 8s;
+}
+.para
+{
+    margin-top: 5%;
+    margin-left: -3%;
+    border-radius: 5px;
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: small;
+    font-weight: bold;
+}
+/* Small sub headings */
+.smallbox1
+{
+        width: 285px;
+        height: 25px;
+        border: 2px solid whitesmoke;
+        margin-top: 5%;
+        margin-left: 1%;
+        border-radius: 5px;
+        padding-left: 5%;
+        padding-top: 5%;
+        font-size: small;
+
+}
+.smallbox1
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 10s;
+}
+.smallbox2
+{
+    width: 285px;
+    height: 25px;
+    border: 2px solid whitesmoke;
+    margin-top: 6%;
+    margin-left: 1%;
+    border-radius: 5px;
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: small;
+}
+.smallbox2
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 10s;
+}
+.smallbox3
+{
+    width: 285px;
+    height: 25px;
+    border: 2px solid whitesmoke;
+    margin-top: 5%;
+    margin-left: 1%;
+    border-radius: 5px;
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: small;
+}
+.smallbox3
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 10s;
+}
+.smallbox4
+{
+    width: 285px;
+    height: 25px;
+    border: 2px solid whitesmoke;
+    margin-top: 4%;
+    margin-left: 1%;
+    border-radius: 5px;
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: small;
+}
+.smallbox4
+{
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 10s;
+}
+/* Conversation box */
+.conve
+{
+    width: 255px;
+    height: 25px;
+    border: 2px solid white;
+    margin-top: 10%;
+    margin-left: 5%;
+    border-radius: 25px;
+    padding-left: 3%;
+    padding-top: 5%;
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 1px 1px 1px 2px grey;
+}
+.conve 
+{
+    size: 10px;
+}
+.conve {
+    -webkit-animation-name: fadeInDown;
+    -moz-animation-name: fadeInDown;
+    -o-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 18s;
+}
+/* Bullet points*/
+ul {
+    list-style: none; /* pxove default bullets */
+  }
+  
+  ul li::before {
+    content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: #FF8D2B; 
+    font-weight: bold; 
+    display: inline-block; 
+    width: 1em; 
+    margin-left: -1em; 
+    text-shadow: 4px 4px 5px #FF8D2B;
+  }
+#chatbot
+{
+    cursor: pointer;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+}
+ /*Animation */
+
+ @-webkit-keyframes fadeInDown {
+    from {
+        opacity:0;
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+        -o-transform: translatey(-10px);
+        transform: translatey(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatey(0);
+        -moz-transform: translatey(0);
+        -o-transform: translatey(0);
+        transform: translatey(0);
+    }
+}
+@-moz-keyframes fadeInDown {
+    from {
+        opacity:0;
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+        -o-transform: translatey(-10px);
+        transform: translatey(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatey(0);
+        -moz-transform: translatey(0);
+        -o-transform: translatey(0);
+        transform: translatey(0);
+    }
+}
+@keyframes fadeInDown {
+    from {
+        opacity:0;
+        -webkit-transform: translatey(-10px);
+        -moz-transform: translatey(-10px);
+        -o-transform: translatey(-10px);
+        transform: translatey(-10px);
+    }
+    to {
+        opacity:1;
+        -webkit-transform: translatey(0);
+        -moz-transform: translatey(0);
+        -o-transform: translatey(0);
+        transform: translatey(0);
+    }
+}
